@@ -1,4 +1,8 @@
-#include <stdio.h>y
+#include <stdio.h>
+/*
+ * Hello C
+ */
+
 int main(void) 
 {
 	puts("\"Programming is like building a multilingual puzzle");
